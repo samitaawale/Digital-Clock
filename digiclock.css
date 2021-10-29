@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(152, 204, 187);
+}
+
+#clock{
+    color: white;
+    font-size: 170px;
+    background-color: black;
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 0px auto;
+    font-family: sans-serif;
+    text-align: center;
+}
+ #banner{
+     color: cornsilk;
+     font-size: 50px;
+     text-align: center;
+     background-color: rgb(70, 67, 67);
+     padding: 0.5em 0em;
+     width: 80%;
+     margin: 10% auto 0;
+     font-family: cursive;
+     text-align: left;
+     text-transform: uppercase;
+     
+ }
+
+span{
+    margin-left: 300px ;
+}
